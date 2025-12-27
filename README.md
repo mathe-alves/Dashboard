@@ -1,12 +1,4 @@
-<img width="716" height="400" alt="image" src="https://github.com/user-attachments/assets/15427123-47f9-4288-bb13-9e1472807569" />
 
-# Dashpoint
-A Dashpoint é uma empresa especializada em:
-- Design Gráfico
-- BI
-- Marketing
-
-Oferecendo soluções inovadoras em análise de dados e comunicação visual.
 
 ### **Alguns dos nossos projetos de BI:**
 ## Modelo Financeiro
